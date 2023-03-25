@@ -1,5 +1,10 @@
 # AWS_Big_Data_Wrangling_with_Google_Books_Ngrams
 
+- [First Jupyter Notebook on EMR ( AWS S3 & Hadoop & PySpark & Spark SQL ) ](https://github.com/mahyarsab/AWS_Big_Data_Wrangling_with_Google_Books_Ngrams/blob/main/1.%20Mahyar_Sabouniaghdam_Spark_on_EMR_Notebook_for_Step4.ipynb)
+- [Second Jupyter Notebook on Local Computer ( Hadoop & Spark & boto3 ) ](https://github.com/mahyarsab/AWS_Big_Data_Wrangling_with_Google_Books_Ngrams/blob/main/2.%20Mahyar_Sabouniaghdam_Step6_to_8_Notebook.ipynb)
+- [Step by Step Full Report](https://github.com/mahyarsab/AWS_Big_Data_Wrangling_with_Google_Books_Ngrams/blob/main/Mahyar_Sabouniaghdam_Big_Data_AWS_Project.pdf)
+- [Filtered CSV Data](https://github.com/mahyarsab/AWS_Big_Data_Wrangling_with_Google_Books_Ngrams/blob/main/filtered_data.csv)
+
 ![image](https://user-images.githubusercontent.com/122119114/225180087-b5ba7db0-61b3-43b3-b4c4-9d2d05205ed6.png)
 
 The [Google Ngrams](https://books.google.com/ngrams) dataset was created by Google's research team by analyzing all of the content in Google Books - these digitized texts represent approximately 4% of all books ever printed, and span a time period from the 1800s into the 2000s.
